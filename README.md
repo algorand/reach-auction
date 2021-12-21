@@ -83,4 +83,4 @@ devnet-eth: fb449c94
 
 All of the hashes listed should be the same and then visit the #releases channel on the [Reach Discord Server](https://discord.gg/9kbHPfwbwn) to see the current hashes.
 
-More information: Detailed Reach install instructions can be found in the [reach docs](https://docs.reach.sh/). 
+More information: Detailed Reach install instructions can be found in the [docs](https://developer.algorand.org/docs/get-started/dapps/reach/). 
